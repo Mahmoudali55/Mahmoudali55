@@ -1,140 +1,161 @@
 <div align="center">
 
-<!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:6366F1&height=200&section=header&text=Mahmoud%20Ali&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=58&descSize=18"/>
+<!-- Header Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:1a1a2e,100:16213e&height=220&section=header&text=Mahmoud%20Ali&fontSize=65&fontColor=00d4ff&animation=fadeIn&fontAlignY=38&desc=Flutter%20Developer%20%7C%20Mobile%20Craftsman&descAlignY=58&descSize=20&descColor=8892b0"/>
 
-<!-- Typing Animation -->
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=06B6D4&center=true&vCenter=true&width=600&lines=Flutter+Developer+%F0%9F%92%99;3%2B+Years+of+Mobile+Experience+%F0%9F%9A%80;Cross-Platform+App+Builder+%F0%9F%93%B1;Clean+Architecture+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=💙+Flutter+Developer+with+3%2B+Years+Experience;📱+Building+Cross-Platform+Mobile+Apps;🏗️+Clean+Architecture+%7C+BLoC+%7C+SOLID;🚀+Turning+Ideas+Into+Production+Apps" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Arabic intro -->
-<p dir="rtl" align="right">
-<b>مرحباً 👋 أنا محمود علي</b> — Flutter Developer بخبرة أكتر من 4 سنين في بناء تطبيقات موبايل Cross-Platform باستخدام Flutter و Dart. شغّال حالياً في السعودية وعندي تجربة في بناء تطبيقات حقيقية على الـ Production في مجالات متنوعة زي العقارات، المطاعم، والتطبيقات الحكومية.
-</p>
+<!-- Badges Row -->
+![](https://img.shields.io/badge/Location-Riyadh%2C_Saudi_Arabia-00d4ff?style=flat-square&logo=google-maps&logoColor=white)
+![](https://img.shields.io/badge/Focus-Flutter_Development-02569B?style=flat-square&logo=flutter&logoColor=white)
+![](https://img.shields.io/badge/Status-Open_to_Work-00C853?style=flat-square&logo=checkmarx&logoColor=white)
 
 </div>
 
 ---
 
-## 👨‍💻 About Me | عن نفسي
+<div align="center">
 
-```dart
-class MahmoudAli extends FlutterDeveloper {
-  
-  final String name       = "Mahmoud Ali Mahmoud Gomma";
-  final String role       = "Flutter Developer";
-  final String location   = "Riyadh, Saudi Arabia 🇸🇦";
-  final int    experience = 3; // years
-  
-  final List<String> currentWork = [
-    "GT4 — Flutter Developer",
-    "Gensystem — Flutter Developer",
-  ];
-
-  final List<String> education = [
-    "B.Sc. Computer Science — Bioinformatics",
-    "Mansoura University, Egypt",
-  ];
-
-  final String email = "mahmmoudali321@gmail.com";
-
-  String get motto => "Build once, run everywhere. 💙";
-}
 ```
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   > Flutter Developer  |  3+ years building mobile apps    │
+│   > Based in Riyadh, Saudi Arabia 🇸🇦                      │
+│   > B.Sc. Computer Science — Mansoura University 🎓        │
+│   > Currently @ GT4 & Gensystem                            │
+│   > Passionate about Clean Code & Great UX                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack | المهارات التقنية
+## 💬 Quote
 
 <div align="center">
 
-### 📱 Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson)](https://github.com/piyushsuthar/github-readme-quotes)
 
-### 🏗️ Architecture & State Management
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 📱 Core
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### 🏗️ Architecture & State
 ![BLoC](https://img.shields.io/badge/BLoC-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Provider](https://img.shields.io/badge/Provider-764ABC?style=for-the-badge&logo=flutter&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logo=flutter&logoColor=white)
+![Provider](https://img.shields.io/badge/Provider-7B2FBE?style=for-the-badge&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-8B0000?style=for-the-badge&logoColor=white)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-00C853?style=for-the-badge&logoColor=white)
-![MVC](https://img.shields.io/badge/MVC-FF6F00?style=for-the-badge&logoColor=white)
 ![MVVM](https://img.shields.io/badge/MVVM-9C27B0?style=for-the-badge&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-FF6F00?style=for-the-badge&logoColor=white)
 
-### ☁️ Backend & Services
+### ☁️ Backend & APIs
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![REST API](https://img.shields.io/badge/RESTful_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Payment Gateway](https://img.shields.io/badge/Payment_Gateways-00457C?style=for-the-badge&logo=stripe&logoColor=white)
 
-### ⚙️ Tools & Practices
+### ⚙️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logo=fastlane&logoColor=black)
-![Firebase App Distribution](https://img.shields.io/badge/Firebase_Distribution-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Fastlane](https://img.shields.io/badge/Fastlane-00F200?style=for-the-badge&logoColor=black)
 ![Agile](https://img.shields.io/badge/Agile-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-6DB33F?style=for-the-badge&logoColor=white)
+![SOLID](https://img.shields.io/badge/SOLID-6DB33F?style=for-the-badge&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-FF6F00?style=for-the-badge&logoColor=white)
-![Data Structures](https://img.shields.io/badge/Data_Structures-E91E63?style=for-the-badge&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects | أبرز المشاريع
+## 🎯 Skills Progress
+
+<div align="center">
+
+| Skill | Level |
+|---|---|
+| **Flutter & Dart** | ![95%](https://progress-bar.xyz/95/?scale=100&title=Expert&width=200&color=02569B&suffix=%) |
+| **BLoC / State Management** | ![90%](https://progress-bar.xyz/90/?scale=100&title=Advanced&width=200&color=7B2FBE&suffix=%) |
+| **Firebase** | ![85%](https://progress-bar.xyz/85/?scale=100&title=Advanced&width=200&color=FFCA28&suffix=%) |
+| **Clean Architecture** | ![88%](https://progress-bar.xyz/88/?scale=100&title=Advanced&width=200&color=00C853&suffix=%) |
+| **REST APIs** | ![85%](https://progress-bar.xyz/85/?scale=100&title=Advanced&width=200&color=FF6C37&suffix=%) |
+| **Git** | ![80%](https://progress-bar.xyz/80/?scale=100&title=Proficient&width=200&color=F05032&suffix=%) |
+
+</div>
+
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 <table>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🏘️ Ahal — NHC App
-منصة رقمية لتحسين تجربة السكن، تتيح طلبات الصيانة، تصاريح الدخول، البطاقات الافتراضية، والمشاركة في الفعاليات — متوافقة مع رؤية 2030.
+منصة سكنية رقمية متوافقة مع رؤية 2030
+تصاريح دخول · صيانة · بطاقات افتراضية
 
-`Flutter` `Firebase` `BLoC` `REST API`
+`Flutter` `BLoC` `Firebase` `REST API`
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🏠 Ejarak — إيجارك
-منصة رقمية تُحوّل سوق الإيجار في السعودية بعقود إلكترونية مؤمّنة، مدمجة مع الجهات الحكومية وتدعم المدفوعات اللاإلكترونية.
+تحويل سوق الإيجار في السعودية
+عقود إلكترونية · مدفوعات آمنة · جهات حكومية
 
 `Flutter` `Clean Architecture` `Payment Gateway`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🍽️ Azeema — عزيمة
-تطبيق مطاعم لطلب وجبات جماعية وإدارة الدعوات مع تجربة سلسة ومدفوعات آمنة.
+تطبيق وجبات جماعية مع إدارة دعوات
+طلبات سهلة · مدفوعات آمنة
 
-`Flutter` `Firebase` `State Management`
+`Flutter` `Firebase` `GetX`
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
 ### 📖 Quran App
-تطبيق إسلامي شامل: أوقات الصلاة، القبلة، قراءة واستماع القرآن الكريم بتلاوات متعددة مع إمكانية حفظ الصفحات.
+تطبيق إسلامي شامل
+قراءة · استماع · قبلة · مواقيت صلاة
 
-`Flutter` `Google Maps` `Local Storage`
+`Flutter` `Google Maps` `Hive`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🎬 Movies App
-تطبيق لمشاهدة أحدث الأفلام والمسلسلات بجودة عالية مع مكتبة متنوعة وقوائم مشاهدة مخصصة.
+مكتبة أفلام بجودة عالية
+بحث · قوائم مخصصة · متعدد الأجهزة
 
 `Flutter` `REST API` `BLoC`
 
 </td>
-<td width="50%">
+<td align="center" width="50%">
 
 ### 🛍️ E-Commerce Shop
-منصة متكاملة لبيع الملابس والأحذية مع دعم الدفع الإلكتروني.
+منصة بيع ملابس وأحذية
+دفع إلكتروني · واجهة عصرية
 
 `Flutter` `Firebase` `Provider`
 
@@ -145,16 +166,29 @@ class MahmoudAli extends FlutterDeveloper {
 
 ---
 
-## 📊 GitHub Stats | إحصائيات
+## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoudali55&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudali55&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mahmoudali55&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=8892b0&bg_color=0d1117"/>
 
-<br/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mahmoudali55&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=8892b0&bg_color=0d1117"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudali55&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Mahmoudali55&theme=github-dark-blue&hide_border=true&stroke=00d4ff&ring=00d4ff&fire=ff6b6b&currStreakLabel=00d4ff&background=0D1117" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Mahmoud's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Mahmoudali55&bg_color=0d1117&color=00d4ff&line=02569B&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -163,26 +197,44 @@ class MahmoudAli extends FlutterDeveloper {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mahmoudali55&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=15" alt="Trophies"/>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mahmoudali55&theme=darkhub&no-frame=true&row=1&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
 
 ---
 
-## 📜 Certificates | الشهادات
-
-- 🏅 **Flutter Development Course**
-- ☁️ **NTI — Amazon Public Cloud Business Model Course**
-
----
-
-## 📬 Contact Me | تواصل معي
+## 🌍 Visitor Counter
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-mahmmoudali321@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmmoudali321@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-gomma-57472b288)
+[![](https://visitcount.itsvg.in/api?id=Mahmoudali55&icon=6&color=0)](https://visitcount.itsvg.in)
+
+<img src="https://profile-counter.glitch.me/Mahmoudali55/count.svg" alt="Visitor Count"/>
+
+</div>
+
+---
+
+## 📜 Certificates
+
+<div align="center">
+
+![Flutter](https://img.shields.io/badge/✅_Flutter_Development_Course-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![AWS](https://img.shields.io/badge/✅_NTI_Amazon_Public_Cloud-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+</div>
+
+---
+
+## 📬 Connect With Me
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/Gmail-mahmmoudali321%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmmoudali321@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud_Gomma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahmoud-gomma-57472b288)
 [![GitHub](https://img.shields.io/badge/GitHub-Mahmoudali55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahmoudali55)
-[![Phone](https://img.shields.io/badge/Phone-+966_0511509294-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9660511509294)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9660511509294)
 
 </div>
 
@@ -190,14 +242,12 @@ class MahmoudAli extends FlutterDeveloper {
 
 <div align="center">
 
-<!-- Snake animation -->
 <img src="https://raw.githubusercontent.com/Mahmoudali55/Mahmoudali55/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 
 <br/>
 
-<!-- Profile views counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Mahmoudali55&color=06B6D4&style=for-the-badge&label=Profile+Views)
+*"Clean code always looks like it was written by someone who cares."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,100:06B6D4&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0f0f0f&height=130&section=footer"/>
 
 </div>
