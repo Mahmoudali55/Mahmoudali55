@@ -180,7 +180,7 @@ class MahmoudAli extends FlutterDeveloper {
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-mahmmoudali321@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahmmoudali321@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mahmoud_Ali-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![LinkedIn](www.linkedin.com/in/mahmoud-gomma-57472b288)
 [![GitHub](https://img.shields.io/badge/GitHub-Mahmoudali55-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mahmoudali55)
 [![Phone](https://img.shields.io/badge/Phone-+966_0511509294-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/9660511509294)
 
